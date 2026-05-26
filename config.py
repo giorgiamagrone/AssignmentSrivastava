@@ -42,9 +42,7 @@ DATA_CFG = {
 
 #Blocking 
 BLOCK_CFG = {
-    "ngram_range": (2, 3),   
-    "top_k":       8,         
-    "min_sim":     0.20,     
+    "ngram_range": (2, 3),        
 }
 
 #Record-linkage thresholds 
