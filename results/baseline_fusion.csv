@@ -1,0 +1,149 @@
+entity_id,med_field,selected_value
+242,year,2001
+18,title,Joint Approximate Nearest Neighbour at Sacle
+406,venue,Int. Joint Conf. on Artificial Intelligence
+135,title,Knowledge rGaph Embedding: A Adaptive Approach
+66,authors,"Yamamoto, R. and Thomas, P. and Chen, S."
+227,venue,Int. Conf. on Information and Knowledge Management
+464,year,2009
+341,venue,IEEE/CVF Conf. Computer Vision and Pattern Recognition
+138,year,2019
+131,title,Robust Truth Discovery for Scoial Networks
+498,year,2017
+33,venue,Int. Conf. on Extending Database Technology
+311,year,2024
+399,title,Duplicate eDtection in the Wild
+495,venue,AAAI Conf. on Artificial Intelligence
+11,title,Robust Trtuh Discovery for Social Networks
+423,year,2016
+147,year,2004
+115,year,2018
+84,venue,The VLDB Journal
+433,venue,Conf. on Empirical Methods in Natural Language Processing
+267,year,2002
+35,authors,"Brown, M. and Nguyen, M. and Dubois, T. and Kumar, P."
+171,year,2002
+255,authors,"Dubois, T. and Kim, E. and Brown, M. and Anderson, E."
+335,authors,"Brown, M. and Anderson, E. and Dubois, T. and Kim, E."
+59,title,Anomaly Detection Over Open Government Daat
+233,venue,ACM Transactions on Knowledge Discovery from Data
+479,venue,Knowledge and Information Systems
+190,title,Text Classification wtih Generative Constraints
+492,year,2013
+155,title,A Adaptive Framework for Weak Supevrision
+156,year,2011
+217,venue,SIAM Int. Conf. on Data Mining
+82,year,2009
+429,venue,Int. Conf. on Machine Learning
+114,year,2017
+465,venue,AAAI Conf. on Artificial Intelligence
+137,authors,"Petrov, M. and Hernandez, J."
+379,title,Anomaly Detection: Chalelnges and Opportunities
+489,year,2008
+109,year,2012
+22,title,Improving Data Augmentation with Parallel Modles
+275,title,A Adaptive Framework for eWak Supervision
+473,year,2018
+373,year,2014
+120,authors,"J., Smith"
+57,year,2010
+260,title,A Saclable Framework for Federated Learning
+298,title,Learning-Based Approximaet Nearest Neighbour
+483,year,2002
+272,title,Twoards Probabilistic Matrix Factorisation
+384,title,Dtaa Fusion in the Wild
+418,title,Learning-Based Apprxoimate Nearest Neighbour
+5,authors,"Thompson, A. and Kim, E."
+419,year,2012
+452,year,2021
+411,authors,"White, P. and Johansson, N. and Okonkwo, I. and Ferreira, E."
+387,authors,"Harris, M. and Nakamura, D. and Silva, W. and Lee, A."
+141,authors,"Wilson, A. and Jackson, G."
+224,venue,NAACL
+220,year,2003
+158,title,Joint Causal Inference: A Sruvey
+77,year,2006
+327,year,2014
+482,year,2001
+190,venue,ICLR
+179,year,2010
+361,title,Schema Matching for Finanical Transactions
+295,year,2008
+105,year,2008
+477,title,Column Stores: From Theory to rPactice
+432,venue,ACL
+159,authors,"J. Martinez, P. Thomas, O. O'Brien, A. Sharma"
+189,title,Inofrmation Extraction in the Wild
+431,title,Robuts Dense Retrieval for Social Networks
+319,year,2006
+318,venue,SIGIR
+115,year,2020
+306,authors,"P. Thomas, S. Chen, R. Yamamoto"
+270,year,2007
+487,year,2008
+177,venue,AIJ
+71,venue,CVPR
+394,year,2009
+346,venue,IJCAI
+448,year,2017
+401,venue,CVPR
+233,authors,"R. Yamamoto, N. Johansson"
+363,authors,"Y. Müller, S. Fischer, S. Cohen, S. Chen"
+385,venue,IS
+114,venue,VLDBJ
+378,year,2017
+453,venue,EDBT
+238,title,Learning-Based Cauasl Inference
+65,venue,ICDM
+483,authors,"S. Cohen, S. Fischer, Y. Müller, S. Chen"
+257,year,2018
+161,year,2016
+427,year,2020
+421,year,2012
+398,title,Joint Causal Inferecne: A Survey
+147,authors,"A. Lee, D. Nakamura, M. Harris, W. Silva"
+110,venue,WSDM
+64,title,Data Fusion: Challenegs and Opportunities
+474,authors,"M. Petrov, E. Ferreira, D. Nakamura"
+141,year,2022
+35,venue,ICDM
+191,title,Robust Dense Retrieval for Socila Networks
+157,venue,SDM
+341,venue,IEEE/CVF Conf. Computer Vision and Pattern Recognition
+108,year,2013
+262,year,2023
+470,venue,WSDM
+382,title,Improving Data Augmentation with Parallle Models
+323,year,2012
+91,venue,SIGMOD
+33,year,2010
+499,year,2020
+319,title,Dpulicate Detection: Challenges and Opportunities
+240,venue,Proc. VLDB Endowment
+56,year,2007
+6,title,Time Series Forecasting via Heterogeneous Soucres
+302,authors,Reza Yamamoto; Peng White; Eric Ferreira
+60,year,2013
+437,venue,Int. Conf. on Information and Knowledge Management
+286,authors,Robert Rossi; Sven Chen; Yuki Müller
+415,venue,Information Systems
+5,title,A Context-Aware rFamework for Collaborative Filtering
+269,venue,Knowledge and Information Systems
+471,authors,Natasha Zhang; Peng White; Alice Kovacs; Eric Ferreira
+136,title,aNmed Entity Recognition for Spatial Data
+231,year,2016
+316,year,2005
+117,title,Column Stores: Frmo Theory to Practice
+83,title,Efficient Relation Extraction: A Suvrey
+338,year,2003
+171,title,Truth Dsicovery via Social Networks
+190,authors,Michael Brown; Alex Thompson; Tom Dubois
+52,venue,TODS
+24,year,2001
+392,venue,IEEE Int. Conf. on Data Engineering
+243,venue,Int. Conf. on Extending Database Technology
+98,title,Joint Apporximate Nearest Neighbour: A Survey
+32,title,Towards Proabbilistic Matrix Factorisation
+110,year,2015
+65,year,2016
+238,venue,DMKD

@@ -1,0 +1,31 @@
+entity_id,med_field,selected_value
+242,year,2001
+18,title,Joint Approximate Nearest Neighbour at Scale
+406,venue,Int. Joint Conf. on Artificial Intelligence
+135,title,Knowledge Graph Embedding: An Adaptive Approach
+66,authors,"Yamamoto, R., Thomas, P., and Chen, S."
+227,venue,Int. Conf. on Information and Knowledge Management
+464,year,2008
+341,venue,IEEE/CVF Conf. Computer Vision and Pattern Recognition
+138,year,2018
+131,title,Robust Truth Discovery for Social Networks
+498,year,2017
+33,venue,EDBT
+311,year,2023
+399,title,Duplicate eDtection in the Wild
+495,venue,AAAI Conf. on Artificial Intelligence
+11,title,Robust Truth Discovery for Social Networks
+423,year,2016
+147,year,2004
+115,year,2019
+84,venue,The VLDB Journal
+433,venue,Conf. on Empirical Methods in Natural Language Processing
+267,year,2002
+35,authors,"Kumar, P.; Brown, M.; Nguyen, M.; Dubois, T."
+171,year,2002
+255,authors,"Dubois, T.; Kim, E.; Brown, M.; Anderson, E."
+335,authors,"Brown, M.; Anderson, E.; Kim, E.; Dubois, T."
+59,title,Anomaly Detection Over Open Government Data
+233,venue,ACM Transactions on Knowledge Discovery from Data
+479,venue,Knowledge and Information Systems
+190,title,Text Classification with Generative Constraints

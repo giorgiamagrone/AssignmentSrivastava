@@ -1,0 +1,149 @@
+entity_id,record_id,source,source_field,med_field,noisy_value,canonical
+242,dblp_00242,dblp,pub_year,year,2001,2002
+18,dblp_00018,dblp,paper_title,title,Joint Approximate Nearest Neighbour at Sacle,Joint Approximate Nearest Neighbour at Scale
+406,dblp_00406,dblp,journal_or_conf,venue,Int. Joint Conf. on Artificial Intelligence,IJCAI
+135,dblp_00135,dblp,paper_title,title,Knowledge rGaph Embedding: A Adaptive Approach,Knowledge Graph Embedding: A Adaptive Approach
+66,dblp_00066,dblp,author_list,authors,"Yamamoto, R. and Thomas, P. and Chen, S.","Yamamoto, R. and Chen, S. and Thomas, P."
+227,dblp_00227,dblp,journal_or_conf,venue,Int. Conf. on Information and Knowledge Management,CIKM
+464,dblp_00464,dblp,pub_year,year,2009,2008
+341,dblp_00341,dblp,journal_or_conf,venue,IEEE/CVF Conf. Computer Vision and Pattern Recognition,CVPR
+138,dblp_00138,dblp,pub_year,year,2019,2018
+131,dblp_00131,dblp,paper_title,title,Robust Truth Discovery for Scoial Networks,Robust Truth Discovery for Social Networks
+498,dblp_00498,dblp,pub_year,year,2017,2018
+33,dblp_00033,dblp,journal_or_conf,venue,Int. Conf. on Extending Database Technology,EDBT
+311,dblp_00311,dblp,pub_year,year,2024,2023
+399,dblp_00399,dblp,paper_title,title,Duplicate eDtection in the Wild,Duplicate Detection in the Wild
+495,dblp_00495,dblp,journal_or_conf,venue,AAAI Conf. on Artificial Intelligence,AAAI
+11,dblp_00011,dblp,paper_title,title,Robust Trtuh Discovery for Social Networks,Robust Truth Discovery for Social Networks
+423,dblp_00423,dblp,pub_year,year,2016,2015
+147,dblp_00147,dblp,pub_year,year,2004,2003
+115,dblp_00115,dblp,pub_year,year,2018,2019
+84,dblp_00084,dblp,journal_or_conf,venue,The VLDB Journal,VLDBJ
+433,dblp_00433,dblp,journal_or_conf,venue,Conf. on Empirical Methods in Natural Language Processing,EMNLP
+267,dblp_00267,dblp,pub_year,year,2002,2003
+35,dblp_00035,dblp,author_list,authors,"Brown, M. and Nguyen, M. and Dubois, T. and Kumar, P.","Kumar, P. and Brown, M. and Nguyen, M. and Dubois, T."
+171,dblp_00171,dblp,pub_year,year,2002,2003
+255,dblp_00255,dblp,author_list,authors,"Dubois, T. and Kim, E. and Brown, M. and Anderson, E.","Anderson, E. and Brown, M. and Kim, E. and Dubois, T."
+335,dblp_00335,dblp,author_list,authors,"Brown, M. and Anderson, E. and Dubois, T. and Kim, E.","Anderson, E. and Brown, M. and Kim, E. and Dubois, T."
+59,dblp_00059,dblp,paper_title,title,Anomaly Detection Over Open Government Daat,Anomaly Detection Over Open Government Data
+233,dblp_00233,dblp,journal_or_conf,venue,ACM Transactions on Knowledge Discovery from Data,TKDD
+479,dblp_00479,dblp,journal_or_conf,venue,Knowledge and Information Systems,KAIS
+190,dblp_00190,dblp,paper_title,title,Text Classification wtih Generative Constraints,Text Classification with Generative Constraints
+492,dblp_00492,dblp,pub_year,year,2013,2012
+155,dblp_00155,dblp,paper_title,title,A Adaptive Framework for Weak Supevrision,A Adaptive Framework for Weak Supervision
+156,dblp_00156,dblp,pub_year,year,2011,2012
+217,dblp_00217,dblp,journal_or_conf,venue,SIAM Int. Conf. on Data Mining,SDM
+82,dblp_00082,dblp,pub_year,year,2009,2010
+429,dblp_00429,dblp,journal_or_conf,venue,Int. Conf. on Machine Learning,ICML
+114,dblp_00114,dblp,pub_year,year,2017,2018
+465,dblp_00465,dblp,journal_or_conf,venue,AAAI Conf. on Artificial Intelligence,AAAI
+137,dblp_00137,dblp,author_list,authors,"Petrov, M. and Hernandez, J.","Hernandez, J. and Petrov, M."
+379,dblp_00379,dblp,paper_title,title,Anomaly Detection: Chalelnges and Opportunities,Anomaly Detection: Challenges and Opportunities
+489,dblp_00489,dblp,pub_year,year,2008,2009
+109,dblp_00109,dblp,pub_year,year,2012,2013
+22,dblp_00022,dblp,paper_title,title,Improving Data Augmentation with Parallel Modles,Improving Data Augmentation with Parallel Models
+275,dblp_00275,dblp,paper_title,title,A Adaptive Framework for eWak Supervision,A Adaptive Framework for Weak Supervision
+473,dblp_00473,dblp,pub_year,year,2018,2017
+373,dblp_00373,dblp,pub_year,year,2014,2013
+120,dblp_00120,dblp,author_list,authors,"J., Smith","Smith, J."
+57,dblp_00057,dblp,pub_year,year,2010,2009
+260,dblp_00260,dblp,paper_title,title,A Saclable Framework for Federated Learning,A Scalable Framework for Federated Learning
+298,dblp_00298,dblp,paper_title,title,Learning-Based Approximaet Nearest Neighbour,Learning-Based Approximate Nearest Neighbour
+483,dblp_00483,dblp,pub_year,year,2002,2003
+272,dblp_00272,dblp,paper_title,title,Twoards Probabilistic Matrix Factorisation,Towards Probabilistic Matrix Factorisation
+384,dblp_00384,dblp,paper_title,title,Dtaa Fusion in the Wild,Data Fusion in the Wild
+418,dblp_00418,dblp,paper_title,title,Learning-Based Apprxoimate Nearest Neighbour,Learning-Based Approximate Nearest Neighbour
+5,dblp_00005,dblp,author_list,authors,"Thompson, A. and Kim, E.","Kim, E. and Thompson, A."
+419,dblp_00419,dblp,pub_year,year,2012,2011
+452,dblp_00452,dblp,pub_year,year,2021,2020
+411,dblp_00411,dblp,author_list,authors,"White, P. and Johansson, N. and Okonkwo, I. and Ferreira, E.","Okonkwo, I. and Ferreira, E. and Johansson, N. and White, P."
+387,dblp_00387,dblp,author_list,authors,"Harris, M. and Nakamura, D. and Silva, W. and Lee, A.","Harris, M. and Silva, W. and Lee, A. and Nakamura, D."
+141,dblp_00141,dblp,author_list,authors,"Wilson, A. and Jackson, G.","Jackson, G. and Wilson, A."
+224,acm_00224,acm,Publication_Venue,venue,NAACL,NAACL
+220,acm_00220,acm,Year,year,2003,2004
+158,acm_00158,acm,Title,title,Joint Causal Inference: A Sruvey,Joint Causal Inference: A Survey
+77,acm_00077,acm,Year,year,2006,2005
+327,acm_00327,acm,Year,year,2014,2015
+482,acm_00482,acm,Year,year,2001,2002
+190,acm_00190,acm,Publication_Venue,venue,ICLR,ICLR
+179,acm_00179,acm,Year,year,2010,2011
+361,acm_00361,acm,Title,title,Schema Matching for Finanical Transactions,Schema Matching for Financial Transactions
+295,acm_00295,acm,Year,year,2008,2007
+105,acm_00105,acm,Year,year,2008,2009
+477,acm_00477,acm,Title,title,Column Stores: From Theory to rPactice,Column Stores: From Theory to Practice
+432,acm_00432,acm,Publication_Venue,venue,ACL,ACL
+159,acm_00159,acm,Authors,authors,"J. Martinez, P. Thomas, O. O'Brien, A. Sharma","Sharma, A. and Thomas, P. and O'Brien, O. and Martinez, J."
+189,acm_00189,acm,Title,title,Inofrmation Extraction in the Wild,Information Extraction in the Wild
+431,acm_00431,acm,Title,title,Robuts Dense Retrieval for Social Networks,Robust Dense Retrieval for Social Networks
+319,acm_00319,acm,Year,year,2006,2007
+318,acm_00318,acm,Publication_Venue,venue,SIGIR,SIGIR
+115,acm_00115,acm,Year,year,2020,2019
+306,acm_00306,acm,Authors,authors,"P. Thomas, S. Chen, R. Yamamoto","Yamamoto, R. and Chen, S. and Thomas, P."
+270,acm_00270,acm,Year,year,2007,2006
+487,acm_00487,acm,Year,year,2008,2007
+177,acm_00177,acm,Publication_Venue,venue,AIJ,AIJ
+71,acm_00071,acm,Publication_Venue,venue,CVPR,CVPR
+394,acm_00394,acm,Year,year,2009,2010
+346,acm_00346,acm,Publication_Venue,venue,IJCAI,IJCAI
+448,acm_00448,acm,Year,year,2017,2016
+401,acm_00401,acm,Publication_Venue,venue,CVPR,CVPR
+233,acm_00233,acm,Authors,authors,"R. Yamamoto, N. Johansson","Johansson, N. and Yamamoto, R."
+363,acm_00363,acm,Authors,authors,"Y. Müller, S. Fischer, S. Cohen, S. Chen","Fischer, S. and Müller, Y. and Cohen, S. and Chen, S."
+385,acm_00385,acm,Publication_Venue,venue,IS,IS
+114,acm_00114,acm,Publication_Venue,venue,VLDBJ,VLDBJ
+378,acm_00378,acm,Year,year,2017,2018
+453,acm_00453,acm,Publication_Venue,venue,EDBT,EDBT
+238,acm_00238,acm,Title,title,Learning-Based Cauasl Inference,Learning-Based Causal Inference
+65,acm_00065,acm,Publication_Venue,venue,ICDM,ICDM
+483,acm_00483,acm,Authors,authors,"S. Cohen, S. Fischer, Y. Müller, S. Chen","Fischer, S. and Müller, Y. and Cohen, S. and Chen, S."
+257,acm_00257,acm,Year,year,2018,2017
+161,acm_00161,acm,Year,year,2016,2017
+427,acm_00427,acm,Year,year,2020,2019
+421,acm_00421,acm,Year,year,2012,2013
+398,acm_00398,acm,Title,title,Joint Causal Inferecne: A Survey,Joint Causal Inference: A Survey
+147,acm_00147,acm,Authors,authors,"A. Lee, D. Nakamura, M. Harris, W. Silva","Harris, M. and Silva, W. and Lee, A. and Nakamura, D."
+110,acm_00110,acm,Publication_Venue,venue,WSDM,WSDM
+64,acm_00064,acm,Title,title,Data Fusion: Challenegs and Opportunities,Data Fusion: Challenges and Opportunities
+474,acm_00474,acm,Authors,authors,"M. Petrov, E. Ferreira, D. Nakamura","Petrov, M. and Nakamura, D. and Ferreira, E."
+141,acm_00141,acm,Year,year,2022,2021
+35,acm_00035,acm,Publication_Venue,venue,ICDM,ICDM
+191,acm_00191,acm,Title,title,Robust Dense Retrieval for Socila Networks,Robust Dense Retrieval for Social Networks
+157,scholar_00157,scholar,Source,venue,SDM,SDM
+341,scholar_00341,scholar,Source,venue,IEEE/CVF Conf. Computer Vision and Pattern Recognition,CVPR
+108,scholar_00108,scholar,PublicationYear,year,2013,2012
+262,scholar_00262,scholar,PublicationYear,year,2023,2022
+470,scholar_00470,scholar,Source,venue,WSDM,WSDM
+382,scholar_00382,scholar,ArticleTitle,title,Improving Data Augmentation with Parallle Models,Improving Data Augmentation with Parallel Models
+323,scholar_00323,scholar,PublicationYear,year,2012,2011
+91,scholar_00091,scholar,Source,venue,SIGMOD,SIGMOD
+33,scholar_00033,scholar,PublicationYear,year,2010,2009
+499,scholar_00499,scholar,PublicationYear,year,2020,2019
+319,scholar_00319,scholar,ArticleTitle,title,Dpulicate Detection: Challenges and Opportunities,Duplicate Detection: Challenges and Opportunities
+240,scholar_00240,scholar,Source,venue,Proc. VLDB Endowment,VLDB
+56,scholar_00056,scholar,PublicationYear,year,2007,2008
+6,scholar_00006,scholar,ArticleTitle,title,Time Series Forecasting via Heterogeneous Soucres,Time Series Forecasting via Heterogeneous Sources
+302,scholar_00302,scholar,Contributor,authors,Reza Yamamoto; Peng White; Eric Ferreira,"Ferreira, E. and White, P. and Yamamoto, R."
+60,scholar_00060,scholar,PublicationYear,year,2013,2012
+437,scholar_00437,scholar,Source,venue,Int. Conf. on Information and Knowledge Management,CIKM
+286,scholar_00286,scholar,Contributor,authors,Robert Rossi; Sven Chen; Yuki Müller,"Müller, Y. and Chen, S. and Rossi, R."
+415,scholar_00415,scholar,Source,venue,Information Systems,IS
+5,scholar_00005,scholar,ArticleTitle,title,A Context-Aware rFamework for Collaborative Filtering,A Context-Aware Framework for Collaborative Filtering
+269,scholar_00269,scholar,Source,venue,Knowledge and Information Systems,KAIS
+471,scholar_00471,scholar,Contributor,authors,Natasha Zhang; Peng White; Alice Kovacs; Eric Ferreira,"Kovacs, A. and Ferreira, E. and Zhang, N. and White, P."
+136,scholar_00136,scholar,ArticleTitle,title,aNmed Entity Recognition for Spatial Data,Named Entity Recognition for Spatial Data
+231,scholar_00231,scholar,PublicationYear,year,2016,2015
+316,scholar_00316,scholar,PublicationYear,year,2005,2004
+117,scholar_00117,scholar,ArticleTitle,title,Column Stores: Frmo Theory to Practice,Column Stores: From Theory to Practice
+83,scholar_00083,scholar,ArticleTitle,title,Efficient Relation Extraction: A Suvrey,Efficient Relation Extraction: A Survey
+338,scholar_00338,scholar,PublicationYear,year,2003,2002
+171,scholar_00171,scholar,ArticleTitle,title,Truth Dsicovery via Social Networks,Truth Discovery via Social Networks
+190,scholar_00190,scholar,Contributor,authors,Michael Brown; Alex Thompson; Tom Dubois,"Brown, M. and Dubois, T. and Thompson, A."
+52,scholar_00052,scholar,Source,venue,TODS,TODS
+24,scholar_00024,scholar,PublicationYear,year,2001,2000
+392,scholar_00392,scholar,Source,venue,IEEE Int. Conf. on Data Engineering,ICDE
+243,scholar_00243,scholar,Source,venue,Int. Conf. on Extending Database Technology,EDBT
+98,scholar_00098,scholar,ArticleTitle,title,Joint Apporximate Nearest Neighbour: A Survey,Joint Approximate Nearest Neighbour: A Survey
+32,scholar_00032,scholar,ArticleTitle,title,Towards Proabbilistic Matrix Factorisation,Towards Probabilistic Matrix Factorisation
+110,scholar_00110,scholar,PublicationYear,year,2015,2014
+65,scholar_00065,scholar,PublicationYear,year,2016,2017
+238,scholar_00238,scholar,Source,venue,DMKD,DMKD
