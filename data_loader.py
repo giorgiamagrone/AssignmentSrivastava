@@ -300,7 +300,7 @@ _PERTURB_FIELDS = {
 }
 
 
-def inject_noise(df: pd.DataFrame, source: str, rate: float = 0.09, seed: int = SEED) -> tuple[pd.DataFrame, list[dict]]:
+def inject_noise(df: pd.DataFrame, source: str, rate: float = 0.15, seed: int = SEED) -> tuple[pd.DataFrame, list[dict]]:
     rng_local = random.Random(seed)
     n_noisy = max(1, int(len(df) * rate))
     noisy_idxs = rng_local.sample(range(len(df)), n_noisy)
